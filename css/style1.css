@@ -7,24 +7,27 @@ h1 {
   font: 20px/1.8 "Roboto Condensed", Helvetica, Arial, sans-serif;
   text-align: center;
   text-transform: uppercase;
+  font-weight: bold;
   }
 h2 {
   font: 18px/1.6 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  
+  font-weight: bold;
   }
 p {
   font: 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
- 
+  text-indent: 1.5em;
 }
 .c1 {
   text-align: center;
   margin: auto;
+
 }
 
 .foot {
-  
+  text-align: center;
   font: 12px/1.2 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  
+  color: #8d8e91;
+  line-height: 3em;
   }
 
 form {
@@ -32,7 +35,7 @@ form {
   border-radius: 5px;
   font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
   overflow: hidden;
-  
+  font-weight: bold;
 }
 fieldset {
   border: 0;
@@ -43,13 +46,17 @@ input {
   border-radius: 5px;
   font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
+  
+  
 }
 legend {
   font: 16px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 2em;
   
 }
 .account-info {
   padding: 20px 20px 0 20px;
+  text-align: left;
 }
 .account-info label {
   color: #395870;
@@ -90,5 +97,5 @@ legend {
 }
 input[type="text"], input[type="email"],  select, textarea {
   width: 100%;
- 
+
 }
