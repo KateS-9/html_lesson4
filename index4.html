@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Формы на веб-странице</title>
+    <link rel="stylesheet" href="css/style4.css">
+</head>
+<body>
+    <header>
+        <h2>Регистрация</h2>
+    </header>
+    <div id="header">
+        <div id="logo"><img src="https://cdn1.savepice.ru/uploads/2021/10/30/31d29e76a9891b6331d632c285a9c3b7-full.jpg" alt="logo vk" title = "" /></div>
+        <div id="content"><b>Вконтакте.ру</b> — сетевой проект, который поможет Вам узнать больше о людях, которые Вас<br> окружают, а также найти потерянных друзей и поддерживать с ними связь. Вы сможете <br> делиться информацией, ограничивая круг лиц, которым она будет доступна.</div>
+    </div>
+    <h3>Имя</h3>   
+    <main>
+        <form action="/signup" method="POST">
+            <fieldset class="account-info">
+                <div id="first_name">
+                    <label>Имя:</label>
+                    <input type="text" name="first_name">
+                    <span class="form_hint">Допускаются только настоящие имя и фамилия</span>
+                </div>
+                <div id="last_name">
+                    <label>Фамилия:</label>
+                    <input type="text" name="last_name">
+                    <span class="form_hint">Остальные регистрации будут удаляться</span>
+                </div>
+                <div id="E-mail">
+                    <label>E-mail:</label>
+                    <input type="text" required="required" class="email notnull">
+                </div>
+                <div id="password">
+                    <label>Пароль:</label>
+                    <input type="password" name="password">
+                </div>
+            </fieldset>
+        </form>
+        <h3>Образование</h3>   
+        <form action="/signup" method="POST">
+            <fieldset class="account-info">
+                <div id="country">
+                    <label>Страна:</label>
+                        <select name="country">
+                            <option>Беларусь</option>
+                            <option>Россия</option>
+                            <option>Украина</option>
+                            <option>Польша</option>
+                            <option>Литва</option>
+                            <option>Латвия</option>
+                            <option>Эстония</option>
+                            <option>США</option>
+                        </select>
+                </div>
+                <div id="city">
+                    <label>Город:</label>
+                        <select name="city">
+                            <option>Минск</option>
+                            <option>Москва</option>
+                            <option>Киев</option>
+                            <option>Варшава</option>
+                            <option>Вильнюс</option>
+                            <option>Рига</option>
+                            <option>Таллин</option>
+                            <option>Вашингтон</option>
+                        </select>        
+                </div>
+            <p>Город, где Вы учились в школе или вузе:</p>            
+            </fieldset>
+        </form>
+        <h4>Школа</h4>   
+        <form action="/signup" method="POST">
+            <fieldset class="account-info">
+                <div id="school">
+                    <label>Школа:</label>
+                        <select name="school">
+                            <option selected> - Выберите школу -   </option>
+                        </select>        
+                </div>    
+            </fieldset>
+        </form>
+        <h4>Университет</h4>   
+        <form action="/signup" method="POST">
+            <fieldset class="account-info">
+                <div id="vyz">
+                    <label>Вуз:</label>
+                        <select name="vyz">
+                            <option selected> - Выберите ВУЗ -   </option>
+                        </select>        
+                </div>    
+            </fieldset>
+            <fieldset class="account-action">
+                <input class="btn" type="submit" name="submit" value="Зарегистрироваться">   
+            </fieldset>
+            <span id="agree">Фактом регистрации Вы соглашаетесь с <a href="/соглашение-об-обработке-персональных-данных" target="_blank" rel="noopener">Пользовательским соглашением</a></span>
+        </form>
+    </main>      
+</body>
+</html>
