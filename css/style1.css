@@ -119,7 +119,7 @@ legend{
   width: auto;
 }
 
-input[type="text"], input[type="email"],  select, textarea{
+input[type="text"], input[type="email"], select, textarea{
   width: 100%;
 }
 
