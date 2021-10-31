@@ -91,7 +91,8 @@ legend {
   border-top: 1px solid #c6c7cc;
   padding: 15px 40px 20px 40px;
   line-height: 15px;
-    
+  margin: 0 auto;
+
   
 }
 .account-action .btn {
