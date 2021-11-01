@@ -20,6 +20,7 @@ h2{
   margin-top: 15px;
   margin-bottom: 13px;
   transform: scaleY(1.05);
+  letter-spacing: 0.3px;
 }
 
 p{
@@ -61,10 +62,11 @@ input{
 }
 
 legend{
-  font: 15px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 12px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 2em;
   transform: scaleY(1.1);
-  margin-top: 2px;
+  padding-top: 4px;
+  letter-spacing: 0.4px;
 }
 
 .account-info{
