@@ -111,9 +111,8 @@ legend{
   color: #fff;
   cursor: pointer;
   font-weight: bold;
-  margin-top: 10px;
+  margin: 10px 5px 10px 5px;
   padding: 7px 20px;
-  margin-bottom: 10px;
 }
 
 .account-action label{
@@ -149,6 +148,3 @@ input[type="password"]{
   height: 25px;
 }
 
-input[type="submit"]{
-  text-align: center;
-}
