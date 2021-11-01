@@ -66,7 +66,7 @@ fieldset{
 
 form{
     overflow: hidden;
-    margin: 14px 0 30px 0;
+    margin: 10px 0 35px 0;
     display: inline-block;
 }
 
@@ -110,12 +110,12 @@ input{
 }
 
 #city{
-    padding: 11px 0 0 26px;
+    padding: 9px 0 0 26px;
 }
 
 p{
     padding: 0;
-    margin: -2px 0 18px 68px;
+    margin: -2px 0 6px 68px;
     font: 10px/1.6 "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #383737;
     font-weight: bolder;
@@ -132,7 +132,8 @@ h4{
 
 select{
     width: 132px;
-    height: 18px;
+    height: 16px;
+    font-size: 12px;
 }
 
 #school{
