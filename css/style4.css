@@ -86,7 +86,7 @@ input{
     color: #636466;
     border-radius: 2px;
     height: 18px;
-    width: 140px;
+    width: 160px;
 }
 
 #first_name{
@@ -131,7 +131,7 @@ h4{
 }
 
 select{
-    width: 132px;
+    width: 152px;
     height: 16px;
     font-size: 12px;
 }
@@ -149,8 +149,11 @@ select{
 }
 
 .account-action .btn{
-    margin: 25px 0 0 31px;
-    padding: 2px 30px 2px 30px;
+    margin: 18px 0 0 31px;
+    padding: 2px 30px 2px 14px;
+    width: 188px;
+    height: 20px;
+    font-size: 12px;
 }
 
 a{
