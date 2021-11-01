@@ -102,7 +102,7 @@ legend{
   border-top: 1px solid #c6c7cc;
   line-height: 15px;
   margin: 0 auto;
-  padding: 15px 20px 20px 20px;
+  padding: 15px 20px 9px 20px;
 }
 
 .account-action .btn{
@@ -145,6 +145,10 @@ select{
   height: 11px;
 }
 
-input[type=password]{
+input[type="password"]{
   height: 25px;
+}
+
+input[type="submit"]{
+  text-align: center;
 }
