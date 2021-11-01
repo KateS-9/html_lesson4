@@ -102,7 +102,7 @@ legend{
   border-top: 1px solid #c6c7cc;
   line-height: 15px;
   margin: 0 auto;
-  padding: 15px 20px 9px 20px;
+  padding: 13px 20px 9px 20px;
 }
 
 .account-action .btn{
@@ -111,8 +111,10 @@ legend{
   color: #fff;
   cursor: pointer;
   font-weight: bold;
-  margin: 10px 5px 10px 5px;
-  padding: 7px 20px;
+  margin: 6px 3px 10px 1px;
+  padding: 3px 15px;
+  height: 28px;
+  width: 150px;
 }
 
 .account-action label{
