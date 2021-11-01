@@ -70,7 +70,7 @@ legend{
 }
 
 .account-info{
-  padding: 10px 17px 10px 17px;
+  padding: 10px 17px 12px 17px;
 }
 
 .account-info label{
@@ -144,5 +144,5 @@ select{
 }
 
 input[type=password]{
-  height: 24px;
+  height: 25px;
 }
