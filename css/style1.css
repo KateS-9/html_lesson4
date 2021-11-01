@@ -56,7 +56,7 @@ fieldset{
 
 input{
   border-radius: 3px;
-  font: 12px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 10px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
   height: 22px; 
 }
@@ -115,6 +115,7 @@ legend{
   padding: 3px 15px;
   height: 28px;
   width: 150px;
+  font-size: 12px;
 }
 
 .account-action label{
