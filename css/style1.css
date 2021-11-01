@@ -15,9 +15,9 @@ h1{
 }
 
 h2{
-  font: 14.5px/1.6 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.6 "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
-  margin-top: 13px;
+  margin-top: 15px;
   margin-bottom: 13px;
   transform: scaleY(1.05);
 }
