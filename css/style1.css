@@ -118,11 +118,13 @@ legend{
 
 .account-action label{
   color: #7c7c80;
-  font-size: 11px;
+  font-size: 9px;
   display:block;
   font-weight: normal;
   text-align: center;
   width: auto;
+  line-height: 12px;
+  letter-spacing: 0.06px;
 }
 
 input[type="text"], input[type="email"], select, textarea{
@@ -139,8 +141,8 @@ select{
 }
 
 [type="checkbox"]{
-  vertical-align: text-bottom;
-  height: 14px;
+  vertical-align: inherit;
+  height: 11px;
 }
 
 input[type=password]{
