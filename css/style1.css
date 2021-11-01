@@ -131,6 +131,7 @@ input[type="text"], input[type="email"], select, textarea{
 
 select{
   height: 22px;
+  font-size: 9px;
 }
 
 ::placeholder{
