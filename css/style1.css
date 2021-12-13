@@ -97,7 +97,8 @@ legend{
 }
 
 #password{
-    
+  padding: 4px 0 0 1px;
+  margin-bottom: -4px;  
 }
 
 #password_confirm{
