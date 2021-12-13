@@ -5,11 +5,11 @@
 }
 
 h1{
-  font: 13.5px/1.8 "Roboto Condensed", Helvetica, Arial, sans-serif;
+  font: 13.5px/1.8 Arial, sans-serif;
   text-align: center;
   text-transform: uppercase;
   font-weight: bold;
-  transform: scaleY(1.15);
+  transform: scaleY(1.25);
   letter-spacing: 1.5px;
   margin-top: 14px;
 }
