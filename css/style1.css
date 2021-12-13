@@ -91,6 +91,7 @@ legend{
 #last_name{
   padding: 7px 0 0 0;
   margin-bottom: -4px;    
+  letter-spacing: -0.2px;
 }
 
 #email, #phone, #country{
