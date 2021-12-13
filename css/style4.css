@@ -26,8 +26,7 @@ img{
 #header{
     font: 11px/1.2 "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #181717;
-    padding-top: 10px;
-    padding-bottom: 13px;
+    padding: 15px 0 17px 13px;
 }
 
 #content{
