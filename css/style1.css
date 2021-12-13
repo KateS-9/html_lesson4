@@ -77,7 +77,7 @@ legend{
 }
 
 .account-info label{
-  color: #395870;
+  color: #3d5473;
   display: block;
   text-align: left;
   padding: 0;
@@ -161,6 +161,8 @@ legend{
 
 #lable2 {
   padding-top: 7px;
+  line-height: 12px;
+  padding-bottom: 2px;
 }
   
 
