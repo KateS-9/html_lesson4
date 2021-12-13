@@ -65,8 +65,9 @@ legend{
   font: 12px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 2em;
   transform: scaleY(1.1);
-  padding-top: 4px;
+  padding-top: 5.5px;
   letter-spacing: 0.4px;
+  padding-left: 10px;
 }
 
 .account-info{
