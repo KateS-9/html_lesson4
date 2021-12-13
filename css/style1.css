@@ -128,7 +128,7 @@ legend{
   border-top: 1px solid #c6c7cc;
   line-height: 15px;
   margin: 0 auto;
-  padding: 13px 20px 9px 20px;
+  padding: 25px 20px 9px 33px;
 }
 
 .account-action .btn{
@@ -151,8 +151,8 @@ legend{
   font-weight: normal;
   text-align: center;
   width: auto;
-  line-height: 12px;
-  letter-spacing: 0.06px;
+  line-height: 13px;
+  letter-spacing: -0.1px;
 }
 
 input[type="text"], input[type="email"], select, textarea{
