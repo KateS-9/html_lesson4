@@ -95,8 +95,9 @@ legend{
 }
 
 #email, #phone, #country{
-  padding: 8px 0 0 0;
-  margin-bottom: -4px;  
+  padding: 8px 0 0 1px;
+  margin-bottom: -4px;
+  letter-spacing: -0.2px;
 }
 
 #password{
