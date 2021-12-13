@@ -78,9 +78,35 @@ legend{
   color: #395870;
   display: block;
   text-align: left;
-  margin-bottom: -3px;
   padding: 0;
-  margin-top: 6px;
+}
+
+#first_name{
+    
+}
+
+#last_name{
+    
+}
+
+#email{
+    
+}
+
+#phone{
+    
+}
+
+#country{
+    
+}
+
+#password{
+    
+}
+
+#password_confirm{
+    
 }
 
 .account-info input{
