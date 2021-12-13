@@ -102,7 +102,9 @@ legend{
 }
 
 #password_confirm{
-    
+  padding: 9.5px 0 0 0;
+  margin-bottom: -2px;
+  font-size: 11px;  
 }
 
 .account-info input{
@@ -158,7 +160,7 @@ input[type="text"], input[type="email"], select, textarea{
 }
 
 select{
-  height: 22px;
+  height: 22.5px;
   font-size: 10px;
   padding-left: 3px;
 }
