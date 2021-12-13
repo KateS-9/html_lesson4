@@ -163,7 +163,8 @@ legend{
 
 input[type="text"], input[type="email"], select, textarea{
   width: 100%;
-  padding-top: 2px;
+  padding-top: 3px;
+  font-size: 9px;
 }
 
 select{
