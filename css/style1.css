@@ -45,7 +45,7 @@ form{
   font: 12px/2 "Helvetica Neue", Helvetica, Arial, sans-serif;
   overflow: hidden;
   font-weight: bold;
-  width: 20%;
+  width: 19.9%;
   margin: 0 auto;
 }
 
@@ -67,7 +67,7 @@ legend{
   transform: scaleY(1.1);
   padding-top: 5.5px;
   letter-spacing: 0.4px;
-  padding-left: 11px;
+  padding-left: 10px;
 }
 
 .account-info{
