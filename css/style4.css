@@ -116,6 +116,36 @@ input{
     padding: 9px 0 0 26px;
 }
 
+#first_name_label{
+}  
+
+#first_name_input{
+}  
+
+#last_name_label{
+}
+
+#last_name_input{
+}
+
+#E-mail_label{
+}
+
+#E-mail_input{
+}
+
+#country_label{
+}  
+
+#country_input{
+}
+
+#city_label{
+}
+
+#city_input{
+}
+
 p{
     padding: 0;
     margin: -2px 0 20px 68px;
