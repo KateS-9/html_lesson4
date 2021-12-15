@@ -102,11 +102,11 @@ input{
 }
 
 #E-mail{
-    padding: 11px 0 0 18px;
+    padding: 16px 0 0 21.5px;
 }
 
 #password{
-    padding: 11px 0 0 10px;
+    padding: 16.5px 0 0 12px;
 }
 
 #country{
@@ -129,15 +129,16 @@ input{
 }
 
 #E-mail_label{
+  padding-top: 1px;
 }
 
 #E-mail_input{
 }
 
-#country_label{
+#password_label{
 }  
 
-#country_input{
+#password_input{
 }
 
 #city_label{
