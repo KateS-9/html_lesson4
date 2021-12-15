@@ -31,7 +31,7 @@ img{
 }
 
 #content{
-    margin: -6px 0 0 39px;
+    margin: -7px 0 1px 39px;
     font-family: Verdana, sans-serif;
     font-size: 13px;
 }
@@ -46,7 +46,7 @@ h3{
 }
 
 .form_hint{
-    font: 10px/1.6 Verdana, sans-serif;
+    font: 10.1px/1.6 Verdana, sans-serif;
     color: #8a8989;
 }
 
@@ -94,11 +94,11 @@ input{
 }
 
 #first_name{
-    padding: 6px 0 0 34px;
+    padding: 5.5px 0 0 34px;
 }
 
 #last_name{
-    padding: 17px 0 0 2px;
+    padding: 16px 0 0 2px;
 }
 
 #E-mail{
