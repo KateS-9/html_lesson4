@@ -118,10 +118,13 @@ input{
 }
 
 #last_name_label{
+  font-size: 13px;
+  padding-left: 1px;
+  letter-spacing: 0.1px;
 }
 
 #last_name_input{
-  width: 169px;
+  width: 170px;
   height: 22.5px;
 }
 
