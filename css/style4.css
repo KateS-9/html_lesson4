@@ -139,6 +139,8 @@ input{
 }  
 
 #password_input{
+  height: 22px;
+  width: 170px;
 }
 
 #city_label{
