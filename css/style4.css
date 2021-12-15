@@ -144,7 +144,8 @@ input{
 }
 
 #education{
-
+  border-bottom: 2px solid rgb(235, 237, 243);
+  padding-bottom: 15px;
 }
   
 
