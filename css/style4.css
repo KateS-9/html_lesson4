@@ -110,7 +110,7 @@ input{
 }
 
 #country{
-    padding: 0 0 0 17px;
+    padding: 6px 0 0 21px;
 }
 
 #city{
@@ -173,8 +173,8 @@ h4{
 }
 
 select{
-    width: 152px;
-    height: 16px;
+    width: 164.5px;
+    height: 19px;
     font-size: 12px;
 }
 
