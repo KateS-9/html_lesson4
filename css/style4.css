@@ -58,9 +58,9 @@ h3{
 
 .account-info label{
     color: #7b7c80;
-    font-size: 14px;
+    font-size: 13px;
     font-family: Verdana, sans-serif;
-    letter-spacing: -0.3px;
+    letter-spacing: 0.1px;
 }
 
 fieldset{
