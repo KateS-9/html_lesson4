@@ -132,12 +132,6 @@ input{
   padding-top: 1px;
 }
 
-#E-mail_input{
-}
-
-#password_label{
-}  
-
 #password_input{
   height: 22px;
   width: 170px;
@@ -160,6 +154,10 @@ input{
 
 #school_label{
   margin-left: -1px;
+}
+
+#university{
+  
 }
 
 p{
