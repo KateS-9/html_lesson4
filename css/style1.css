@@ -176,6 +176,10 @@ input[type="text"], input[type="email"], select, textarea {
   font-size: 8.5px;
 }
 
+input.notnull{
+  letter-spacing: -0.1px;
+}
+
 select {
   height: 22.5px;
   font-size: 9px;
