@@ -176,7 +176,7 @@ input[type="text"], input[type="email"], select, textarea {
   font-size: 8.5px;
 }
 
-input.notnull{
+input[type="text"name="phone"] {
   letter-spacing: -0.1px;
 }
 
