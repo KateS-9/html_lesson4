@@ -181,6 +181,7 @@ input[type="text"], input[type="email"], select, textarea {
 }
 
 #email_input {
+  letter-spacing: 0.2px;
 }
 
 select {
