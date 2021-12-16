@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-h1{
+h1 {
   font: 13.5px/1.8 Arial, sans-serif;
   text-align: center;
   text-transform: uppercase;
@@ -14,7 +14,7 @@ h1{
   margin-top: 14px;
 }
 
-h2{
+h2 {
   font: 14px/1.6 Arial, sans-serif;
   font-weight: bold;
   margin-top: 17px;
@@ -24,16 +24,16 @@ h2{
   padding-left: 3px;
 }
 
-p{
+p {
   font: 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-.c1{
+.c1 {
   text-align: center;
   margin: auto;
 }
 
-.foot{
+.foot {
   text-align: center;
   font: 10px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #a7a9ad;
@@ -41,7 +41,7 @@ p{
   padding-top: 1px;
 }
 
-form{
+form {
   border: 1px solid #c6c7cc;
   border-radius: 5px;
   font: 12px/2 "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -51,19 +51,19 @@ form{
   margin: 0 auto;
 }
 
-fieldset{
+fieldset {
   border: 0;
   margin: 0;
 }
 
-input{
+input {
   border-radius: 3px;
   font: 10px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
   height: 22px; 
 }
 
-legend{
+legend {
   font: 12px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 2em;
   transform: scaleY(1.1);
@@ -72,11 +72,11 @@ legend{
   padding-left: 6px;
 }
 
-.account-info{
+.account-info {
   padding: 10px 17px 12px 17px;
 }
 
-.account-info label{
+.account-info label {
   color: #3d5473;
   display: block;
   text-align: left;
@@ -84,39 +84,39 @@ legend{
   font-size: 11px;
 }
 
-#first_name{
+#first_name {
   padding: 8px 0 0 1px;
   margin-bottom: -3px;
   margin-left: -2px;
 }
 
-#last_name{
+#last_name {
   padding: 9px 0 0 0;
   margin-bottom: -3px;
   margin-left: -1px;
 }
 
-#email, #phone, #country{
+#email, #phone, #country {
   padding: 8px 0 0 1px;
   margin-bottom: -2px;
   margin-left: -2px;
 }
 
-#password{
+#password {
   padding: 5px 0 0 0;
   margin-bottom: -1px;
   margin-left: -1px;
   letter-spacing: 0.1px;
 }
 
-#password_confirm{
+#password_confirm {
   padding: 9px 0 0 0;
   margin-bottom: -2px;
   font-size: 11.2px;
   margin-left: -1px;
 }
 
-.account-info input{
+.account-info input {
   background: #fff;
   border: 1px solid #c6c7cc;
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
@@ -124,14 +124,14 @@ legend{
   width: 101%;
 }
 
-.account-info select{
+.account-info select {
   background: #fff;
   border: 1px solid #c6c7cc;
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
   color: #636466;
 }
 
-.account-action{
+.account-action {
   background: #f0f0f2;
   border-top: 1px solid #c6c7cc;
   line-height: 15px;
@@ -139,7 +139,7 @@ legend{
   padding: 24px 20px 14px 33px;
 }
 
-.account-action .btn{
+.account-action .btn {
   background: linear-gradient(#49708f, #293f50);
   border: 0;
   color: #fff;
@@ -152,8 +152,8 @@ legend{
   font-size: 11px;
 }
 
-.account-action label{
-  color: #434346;
+.account-action label {
+  color: #5a5a5c;
   font-size: 8.5px;
   display: block;
   font-weight: normal;
@@ -170,31 +170,30 @@ legend{
 }
   
 
-input[type="text"], input[type="email"], select, textarea{
+input[type="text"], input[type="email"], select, textarea {
   width: 101%;
   padding-top: 1px;
   font-size: 9px;
   letter-spacing: -0.1px;
 }
 
-select{
+select {
   height: 22.5px;
   font-size: 9px;
   padding-left: 3px;
 }
 
-::placeholder{
+::placeholder {
   font-size: 9px;
 }
 
-[type="checkbox"]{
+[type="checkbox"] {
   vertical-align: inherit;
   height: 11px;
 }
 
-input[type="password"]{
+input[type="password"] {
   height: 26px;
   padding-left: 5px;
   padding-top: 4px;
 }
-
