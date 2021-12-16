@@ -147,12 +147,8 @@ input{
   border-bottom: 2px solid rgb(235, 237, 243);
   padding-bottom: 15px;
 }
-  
 
-#city_label{
-}
-
-#city_input{
+#city_select{
 }
 
 p{
@@ -176,6 +172,7 @@ select{
     width: 164.5px;
     height: 19px;
     font-size: 12px;
+    font-family: Verdana, sans-serif;
 }
 
 #school{
