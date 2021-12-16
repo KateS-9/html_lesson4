@@ -174,7 +174,6 @@ input[type="text"], input[type="email"], select, textarea {
   width: 101%;
   padding-top: 1px;
   font-size: 8.5px;
-  letter-spacing: -0.1px;
 }
 
 select {
