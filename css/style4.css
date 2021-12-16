@@ -6,8 +6,8 @@
 
 h2{
     font: 18.5px Verdana, sans-serif;
-    color: #263f87;
-    border-bottom: 3px solid rgb(235, 237, 243);
+    color: #004288;
+    border-bottom: 3px solid #e7eaef;
     padding-bottom: 15.5px;
     margin: 8px 0 0 3px;
     letter-spacing: -0.3px;
@@ -38,8 +38,8 @@ img{
 
 h3{
     font: 16px Verdana, sans-serif;
-    color: #4e7497;
-    border-bottom: 3px solid rgb(235, 237, 243);
+    color: #577496;
+    border-bottom: 3px solid #e7eaef;
     margin: 0;
     font-weight: bolder;
     padding: 4px 0 14.5px 3px;
@@ -185,8 +185,8 @@ p{
 
 h4{
     font: 13px/1.6 Verdana, sans-serif;
-    color: #4e7497;
-    border-bottom: 2px solid rgb(235, 237, 243);
+    color: #577496;
+    border-bottom: 2px solid #e7eaef;
     padding-bottom: 9px;
     margin: -31px 0 3.5px 3px;
     font-weight: bolder;
@@ -232,7 +232,7 @@ a{
 
 #agree{
     font: 10px/1.6 Verdana, sans-serif;
-    color: #8a8989;
+    color: #a2a0a1;
     margin: 0 0 0 34px;
     padding: 0;
 }
