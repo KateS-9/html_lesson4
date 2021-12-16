@@ -145,7 +145,7 @@ legend{
   color: #fff;
   cursor: pointer;
   font-weight: bold;
-  margin: 5px 3px 10px -10px;
+  margin: 6px 3px 10px -10.5px;
   padding: 6px 14px 5px 14px;
   height: 28px;
   width: 140px;
@@ -159,12 +159,12 @@ legend{
   font-weight: normal;
   text-align: center;
   width: auto;
-  line-height: 13px;
+  line-height: 12px;
   letter-spacing: 0.1px;
 }
 
 #lable2 {
-  padding-top: 5px;
+  padding-top: 6px;
   line-height: 12px;
   padding-bottom: 2px;
 }
