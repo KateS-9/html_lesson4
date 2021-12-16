@@ -161,7 +161,13 @@ input{
   padding-bottom: 11px;
 }
 
-.option selected{
+#vyz_label{
+}
+
+#vyz_select{
+}
+
+#option_selected{
 }
 
 p{
