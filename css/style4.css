@@ -70,7 +70,7 @@ fieldset{
 
 form{
     overflow: hidden;
-    margin: 10px 0 42px 0;
+    margin: 10px 0 43.4px 0;
     display: inline-block;
 }
 
@@ -150,6 +150,7 @@ input{
 #school_select{
   width: 168px;
   height: 18px;
+  letter-spacing: -0.3px;
 }
 
 #school_label{
@@ -167,12 +168,9 @@ input{
 #vyz_select{
 }
 
-#option_selected{
-}
-
 p{
     padding: 0;
-    margin: -1.5px 0 22px 81px;
+    margin: -1.5px 0 21px 81px;
     font: 10.05px/1.6 Verdana, sans-serif;
     color: #383737;
     font-weight: bold;
