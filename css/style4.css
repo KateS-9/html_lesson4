@@ -154,6 +154,8 @@ input{
 }
 
 #school_select{
+  width: 168px;
+  height: 18px;
 }
 
 #school_label{
