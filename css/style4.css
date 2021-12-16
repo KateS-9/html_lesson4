@@ -211,7 +211,7 @@ select{
 }
 
 .account-action .btn{
-    margin: 27.5px 0 -3px 35px;
+    margin: 27.5px 0 -4.5px 35px;
     padding: 1.5px 30px 2px 23px;
     width: 208.5px;
     height: 23px;
@@ -225,8 +225,8 @@ a{
 }
 
 #agree{
-    font: 10px/1.6 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 10px/1.6 Verdana, sans-serif;
     color: #8a8989;
-    margin: 0 0 0 30px;
+    margin: 0 0 0 34px;
     padding: 0;
 }
