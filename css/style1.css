@@ -102,9 +102,10 @@ legend{
 }
 
 #password{
-  padding: 4px 0 0 1px;
-  margin-bottom: -4px;
-  letter-spacing: -0.2px;
+  padding: 5px 0 0 0;
+  margin-bottom: -1px;
+  margin-left: -1px;
+  letter-spacing: 0.1px;
 }
 
 #password_confirm{
