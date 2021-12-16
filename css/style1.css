@@ -47,7 +47,7 @@ form{
   font: 12px/2 "Helvetica Neue", Helvetica, Arial, sans-serif;
   overflow: hidden;
   font-weight: bold;
-  width: 19.9%;
+  width: 23%;
   margin: 0 auto;
 }
 
@@ -69,7 +69,7 @@ legend{
   transform: scaleY(1.1);
   padding-top: 5.5px;
   letter-spacing: 0.4px;
-  padding-left: 10px;
+  padding-left: 6px;
 }
 
 .account-info{
@@ -84,14 +84,15 @@ legend{
 }
 
 #first_name{
-  padding: 6px 0 0 0;
-  margin-bottom: -3px;  
+  padding: 8px 0 0 1px;
+  margin-bottom: -3px;
+  margin-left: -2px;
 }
 
 #last_name{
-  padding: 7px 0 0 0;
-  margin-bottom: -4px;    
-  letter-spacing: -0.2px;
+  padding: 9px 0 0 0;
+  margin-bottom: -4px;
+  margin-left: -1px;
 }
 
 #email, #phone, #country{
@@ -167,8 +168,8 @@ legend{
   
 
 input[type="text"], input[type="email"], select, textarea{
-  width: 100%;
-  padding-top: 3px;
+  width: 101%;
+  padding-top: 1px;
   font-size: 9px;
 }
 
