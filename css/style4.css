@@ -150,7 +150,6 @@ input {
 #school_select {
     width: 168px;
     height: 18px;
-    letter-spacing: -0.3px;
 }
 
 #school_label {
@@ -170,8 +169,6 @@ input {
     margin: 0 0 0 -0.5px;
     width: 166px;
     height: 19.5px;
-    letter-spacing: -0.4px;
-
 }
 
 p {
@@ -195,9 +192,8 @@ h4 {
 select {
     width: 164.5px;
     height: 19px;
-    font-size: 14px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    letter-spacing: -0.5px;
+    letter-spacing: 0.1px;
 }
 
 #school {
